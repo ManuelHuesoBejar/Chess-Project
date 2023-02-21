@@ -21,9 +21,9 @@ This repository is for work in the project of a chess game for the programming s
 
 
 ## Rules
-1st For merge in a push, there must be at least 2 aprovals.
-2nd In any push, must be an explanation about why is the push required why it has been made the way it has been done.
-3rd In case of fire:
+1. For merge in a push, there must be at least 2 aprovals. /n
+2. In any push, must be an explanation about why is the push required why it has been made the way it has been done.
+3. In case of fire:
       * git commit
       * git push
       * leave building
