@@ -15,6 +15,6 @@ This repository is for work in the project of a chess game for the programming s
 * Fun fact: I like to use var names as EasterEggs.
 
 
-### <NAME INITIALS ON CAPITAL LETTERS>
-* Name: <Full name>
-* Fun fact: <Just type a fun fact from you>
+### <"NAME INITIALS ON CAPITAL LETTERS">
+* Name: <"Full name">
+* Fun fact: <"Just type a fun fact from you">
