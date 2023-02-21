@@ -11,10 +11,19 @@ This repository is for work in the project of a chess game for the programming s
 ## Team members
 
 ### MHB
-* Name: Manuel Hueso Béjar
+* Name: Manuel Hueso BÃ©jar
 * Fun fact: I like to use var names as EasterEggs.
 
 
 ### <"NAME INITIALS ON CAPITAL LETTERS">
 * Name: <"Full name">
 * Fun fact: <"Just type a fun fact from you">
+
+
+## Rules
+1st For merge in a push, there must be at least 2 aprovals.
+2nd In any push, must be an explanation about why is the push required why it has been made the way it has been done.
+3rd In case of fire:
+      * git commit
+      * git push
+      * leave building
