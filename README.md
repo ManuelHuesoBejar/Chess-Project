@@ -23,7 +23,8 @@ This repository is for work in the project of a chess game for the programming s
 ## Rules
 1. For merge in a push, there must be at least 2 aprovals.
 2. In any push, must be an explanation about why is the push required why it has been made the way it has been done.
-3. 🔥 In case of fire: 🔥
+3. :fire: In case of fire: :fire:
+
       * git commit
       * git push
       * leave building
@@ -60,11 +61,6 @@ From GIT CMD
 ### Pull
 Remember the 1st rule, For merge in a push, there must be at least 2 aprovals.
 Go to Pull requests in the Repo from GitHub.
-
-
-
-
-
 
 
 -MHB
