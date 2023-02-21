@@ -12,7 +12,7 @@ This repository is for work in the project of a chess game for the programming s
 
 ### MHB
 * Name: Manuel Hueso Béjar
-* Fun fact: I like to use var names as EasterEgss.
+* Fun fact: I like to use var names as EasterEggs.
 
 
 ### <NAME INITIALS ON CAPITAL LETTERS>
