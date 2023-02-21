@@ -58,9 +58,25 @@ From GIT CMD
 7. git commit -m <Name before used during config>
 8. git push -u origin <Name before used during config>
      
-### Pull
+### Pull and Merge
 Remember the 1st rule, For merge in a push, there must be at least 2 aprovals.
+<<<<<<< HEAD
+1. Go to "Pull requests" in the Repo from GitHub.
+2. Click on "New pull request".
+3. Select your branch.
+4. Press the green button "Create pull request", remember the 2nd rule: In any push, must be an explanation about why is the push required why it has been made the way it has been done.
+    So you must add a little explanation.
+5. Click on Create pull request.
+6. Select "Merge pull request" and "Confirm merge".
+
+
+
+
+
+
+=======
 Go to Pull requests in the Repo from GitHub.
+>>>>>>> 59ee0e65df1b52ba30f1fd02adfa1782bcaf8009
 
 
 -MHB
