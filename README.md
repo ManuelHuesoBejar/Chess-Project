@@ -18,6 +18,10 @@ This repository is for work in the project of a chess game for the programming s
 * Name: Diego Ramírez Peinado
 * Fun fact: me cago.
 
+### LGV
+* Name: Lucas Gómez Velayos
+* Fun fact: I'm really bad at chess
+
 
 ### <"NAME INITIALS ON CAPITAL LETTERS">
 * Name: <"Full name">
