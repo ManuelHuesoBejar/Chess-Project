@@ -16,7 +16,7 @@ This repository is for work in the project of a chess game for the programming s
 
 ### DRP
 * Name: Diego Ramírez Peinado
-* Fun fact: me cago.
+* Fun fact: me cago much.
 
 ### LGV
 * Name: Lucas Gómez Velayos
