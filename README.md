@@ -22,6 +22,10 @@ This repository is for work in the project of a chess game for the programming s
 * Name: Lucas Gómez Velayos
 * Fun fact: I'm really bad at chess
 
+### GTR
+* Name: Gonzalo Triguero Requena
+* Fun fact: I am your father
+
 
 ### <"NAME INITIALS ON CAPITAL LETTERS">
 * Name: <"Full name">
