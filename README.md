@@ -19,6 +19,8 @@ This repository is for work in the project of a chess game for the programming s
 * Name: <"Full name">
 * Fun fact: <"Just type a fun fact from you">
 
+holi boli
+
 
 ## Rules
 1. For merge in a push, there must be at least 2 aprovals.
