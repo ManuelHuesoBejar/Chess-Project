@@ -14,6 +14,18 @@ This repository is for work in the project of a chess game for the programming s
 * Name: Manuel Hueso Béjar
 * Fun fact: I like to use var names as EasterEggs.
 
+### DRP
+* Name: Diego Ramírez Peinado
+* Fun fact: me cago much.
+
+### LGV
+* Name: Lucas Gómez Velayos
+* Fun fact: I'm really bad at chess
+
+### GTR
+* Name: Gonzalo Triguero Requena
+* Fun fact: I am your father
+
 
 ### <"NAME INITIALS ON CAPITAL LETTERS">
 * Name: <"Full name">
