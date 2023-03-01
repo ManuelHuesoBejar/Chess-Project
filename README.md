@@ -29,7 +29,7 @@ This repository is for work in the project of a chess game for the programming s
 ### AVZ
 * Name: Angel Villamar Zambrano
 * Fun fact: I am your mother 
-
+* puto el que lo lea
 
 ### <"NAME INITIALS ON CAPITAL LETTERS">
 * Name: <"Full name">
