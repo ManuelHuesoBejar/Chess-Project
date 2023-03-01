@@ -27,8 +27,8 @@ This repository is for work in the project of a chess game for the programming s
 * Fun fact: I am your father
 
 ### AVZ
-*Name: Angel Villamar Zambrano
-*Fun fact: I am your mother 
+* Name: Angel Villamar Zambrano
+* Fun fact: I am your mother 
 
 
 ### <"NAME INITIALS ON CAPITAL LETTERS">
