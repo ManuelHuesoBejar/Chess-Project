@@ -26,6 +26,10 @@ This repository is for work in the project of a chess game for the programming s
 * Name: Gonzalo Triguero Requena
 * Fun fact: I am your father
 
+### AVZ
+*Name: Angel Villamar Zambrano
+*Fun fact: I am your mother 
+
 
 ### <"NAME INITIALS ON CAPITAL LETTERS">
 * Name: <"Full name">
@@ -70,9 +74,16 @@ From GIT CMD
 7. git commit -m <Name before used during config>
 8. git push -u origin <Name before used during config>
      
-### Pull
+### Pull and Merge
 Remember the 1st rule, For merge in a push, there must be at least 2 aprovals.
-Go to Pull requests in the Repo from GitHub.
+
+1. Go to "Pull requests" in the Repo from GitHub.
+2. Click on "New pull request".
+3. Select your branch.
+4. Press the green button "Create pull request", remember the 2nd rule: In any push, must be an explanation about why is the push required why it has been made the way it has been done.
+    So you must add a little explanation.
+5. Click on Create pull request.
+6. Select "Merge pull request" and "Confirm merge".
 
 
 -MHB
